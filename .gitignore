@@ -1,0 +1,7 @@
+/.vscode
+__pycache__
+/venv
+
+models
+raw_data
+README.md
